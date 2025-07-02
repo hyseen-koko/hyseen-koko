@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me hyseenkoko@gmail.com
 - 😄 Pronouns: her
-- ⚡ Fun fact: travelling
+- ⚡ Fun fact: travelling,coding
+
 
 <!---
 hyseen-koko/hyseen-koko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
